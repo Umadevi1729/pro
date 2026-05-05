@@ -15,4 +15,3 @@ jobs:
 
       - name: Test pipeline
         run: echo "CI pipeline is working"
-``
